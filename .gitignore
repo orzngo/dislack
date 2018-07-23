@@ -1,0 +1,10 @@
+.env
+config/local.json
+build/
+.DS_Store
+node_modules/
+.idea/
+*.iml
+src/**/*.js
+src/**/*.map
+
